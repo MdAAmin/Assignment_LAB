@@ -5,4 +5,13 @@
     <string name="weight_in_kg">Weight in Kg</string>
     <string name="calculate">Calculate</string>
     <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="continue">Continue</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="to_bmi_world">TO BMI world</string>
+    <string name="welcome">welcome</string>
+    <string name="continue1">continue</string>
 </resources>
